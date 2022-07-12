@@ -1,5 +1,7 @@
 from django.http import HttpResponse
 
+# test commit
+
 
 def index(request):
     return HttpResponse('У меня получилось!')
